@@ -1,3 +1,4 @@
+/*
 public class Program{
   public static void Main(string[] args){
       int[] data = {3,4,5,1};
@@ -24,3 +25,4 @@ public class Program{
     data[j] = temp;
   }
 }
+*/
