@@ -1,0 +1,14 @@
+/Users/ajungy/Desktop/CS136/sandbox/obj/Debug/net9.0/sandbox.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajungy/Desktop/CS136/sandbox/obj/Debug/net9.0/sandbox.AssemblyInfoInputs.cache
+/Users/ajungy/Desktop/CS136/sandbox/obj/Debug/net9.0/sandbox.AssemblyInfo.cs
+/Users/ajungy/Desktop/CS136/sandbox/obj/Debug/net9.0/sandbox.csproj.CoreCompileInputs.cache
+/Users/ajungy/Desktop/CS136/sandbox/bin/Debug/net9.0/sandbox
+/Users/ajungy/Desktop/CS136/sandbox/bin/Debug/net9.0/sandbox.deps.json
+/Users/ajungy/Desktop/CS136/sandbox/bin/Debug/net9.0/sandbox.runtimeconfig.json
+/Users/ajungy/Desktop/CS136/sandbox/bin/Debug/net9.0/sandbox.dll
+/Users/ajungy/Desktop/CS136/sandbox/bin/Debug/net9.0/sandbox.pdb
+/Users/ajungy/Desktop/CS136/sandbox/obj/Debug/net9.0/sandbox.dll
+/Users/ajungy/Desktop/CS136/sandbox/obj/Debug/net9.0/refint/sandbox.dll
+/Users/ajungy/Desktop/CS136/sandbox/obj/Debug/net9.0/sandbox.pdb
+/Users/ajungy/Desktop/CS136/sandbox/obj/Debug/net9.0/sandbox.genruntimeconfig.cache
+/Users/ajungy/Desktop/CS136/sandbox/obj/Debug/net9.0/ref/sandbox.dll
