@@ -1,3 +1,4 @@
+/*
 public class Program{
   public static void Main(string[] args){
     Student student1 = new Student (9145, "62 UN Village-gil", "Alex Jung");
@@ -26,3 +27,4 @@ public class Student {
     return false;
   }
 }
+*/
