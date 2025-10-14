@@ -1,0 +1,15 @@
+/Users/ajungy/Desktop/CS136/sandbox/readings/interfaces/obj/Debug/net9.0/interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajungy/Desktop/CS136/sandbox/readings/interfaces/obj/Debug/net9.0/interfaces.AssemblyInfoInputs.cache
+/Users/ajungy/Desktop/CS136/sandbox/readings/interfaces/obj/Debug/net9.0/interfaces.AssemblyInfo.cs
+/Users/ajungy/Desktop/CS136/sandbox/readings/interfaces/obj/Debug/net9.0/interfaces.csproj.CoreCompileInputs.cache
+/Users/ajungy/Desktop/CS136/sandbox/readings/interfaces/obj/Debug/net9.0/interfaces.sourcelink.json
+/Users/ajungy/Desktop/CS136/sandbox/readings/interfaces/bin/Debug/net9.0/interfaces
+/Users/ajungy/Desktop/CS136/sandbox/readings/interfaces/bin/Debug/net9.0/interfaces.deps.json
+/Users/ajungy/Desktop/CS136/sandbox/readings/interfaces/bin/Debug/net9.0/interfaces.runtimeconfig.json
+/Users/ajungy/Desktop/CS136/sandbox/readings/interfaces/bin/Debug/net9.0/interfaces.dll
+/Users/ajungy/Desktop/CS136/sandbox/readings/interfaces/bin/Debug/net9.0/interfaces.pdb
+/Users/ajungy/Desktop/CS136/sandbox/readings/interfaces/obj/Debug/net9.0/interfaces.dll
+/Users/ajungy/Desktop/CS136/sandbox/readings/interfaces/obj/Debug/net9.0/refint/interfaces.dll
+/Users/ajungy/Desktop/CS136/sandbox/readings/interfaces/obj/Debug/net9.0/interfaces.pdb
+/Users/ajungy/Desktop/CS136/sandbox/readings/interfaces/obj/Debug/net9.0/interfaces.genruntimeconfig.cache
+/Users/ajungy/Desktop/CS136/sandbox/readings/interfaces/obj/Debug/net9.0/ref/interfaces.dll
