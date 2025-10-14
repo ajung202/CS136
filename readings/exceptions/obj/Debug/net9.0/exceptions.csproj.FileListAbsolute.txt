@@ -1,0 +1,15 @@
+/Users/ajungy/Desktop/CS136/sandbox/readings/exceptions/obj/Debug/net9.0/exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajungy/Desktop/CS136/sandbox/readings/exceptions/obj/Debug/net9.0/exceptions.AssemblyInfoInputs.cache
+/Users/ajungy/Desktop/CS136/sandbox/readings/exceptions/obj/Debug/net9.0/exceptions.AssemblyInfo.cs
+/Users/ajungy/Desktop/CS136/sandbox/readings/exceptions/obj/Debug/net9.0/exceptions.csproj.CoreCompileInputs.cache
+/Users/ajungy/Desktop/CS136/sandbox/readings/exceptions/obj/Debug/net9.0/exceptions.sourcelink.json
+/Users/ajungy/Desktop/CS136/sandbox/readings/exceptions/bin/Debug/net9.0/exceptions
+/Users/ajungy/Desktop/CS136/sandbox/readings/exceptions/bin/Debug/net9.0/exceptions.deps.json
+/Users/ajungy/Desktop/CS136/sandbox/readings/exceptions/bin/Debug/net9.0/exceptions.runtimeconfig.json
+/Users/ajungy/Desktop/CS136/sandbox/readings/exceptions/bin/Debug/net9.0/exceptions.dll
+/Users/ajungy/Desktop/CS136/sandbox/readings/exceptions/bin/Debug/net9.0/exceptions.pdb
+/Users/ajungy/Desktop/CS136/sandbox/readings/exceptions/obj/Debug/net9.0/exceptions.dll
+/Users/ajungy/Desktop/CS136/sandbox/readings/exceptions/obj/Debug/net9.0/refint/exceptions.dll
+/Users/ajungy/Desktop/CS136/sandbox/readings/exceptions/obj/Debug/net9.0/exceptions.pdb
+/Users/ajungy/Desktop/CS136/sandbox/readings/exceptions/obj/Debug/net9.0/exceptions.genruntimeconfig.cache
+/Users/ajungy/Desktop/CS136/sandbox/readings/exceptions/obj/Debug/net9.0/ref/exceptions.dll
