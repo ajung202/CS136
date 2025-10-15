@@ -1,0 +1,15 @@
+/Users/ajungy/Desktop/CS136/sandbox/readings/sort/obj/Debug/net9.0/sort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajungy/Desktop/CS136/sandbox/readings/sort/obj/Debug/net9.0/sort.AssemblyInfoInputs.cache
+/Users/ajungy/Desktop/CS136/sandbox/readings/sort/obj/Debug/net9.0/sort.AssemblyInfo.cs
+/Users/ajungy/Desktop/CS136/sandbox/readings/sort/obj/Debug/net9.0/sort.csproj.CoreCompileInputs.cache
+/Users/ajungy/Desktop/CS136/sandbox/readings/sort/obj/Debug/net9.0/sort.sourcelink.json
+/Users/ajungy/Desktop/CS136/sandbox/readings/sort/bin/Debug/net9.0/sort
+/Users/ajungy/Desktop/CS136/sandbox/readings/sort/bin/Debug/net9.0/sort.deps.json
+/Users/ajungy/Desktop/CS136/sandbox/readings/sort/bin/Debug/net9.0/sort.runtimeconfig.json
+/Users/ajungy/Desktop/CS136/sandbox/readings/sort/bin/Debug/net9.0/sort.dll
+/Users/ajungy/Desktop/CS136/sandbox/readings/sort/bin/Debug/net9.0/sort.pdb
+/Users/ajungy/Desktop/CS136/sandbox/readings/sort/obj/Debug/net9.0/sort.dll
+/Users/ajungy/Desktop/CS136/sandbox/readings/sort/obj/Debug/net9.0/refint/sort.dll
+/Users/ajungy/Desktop/CS136/sandbox/readings/sort/obj/Debug/net9.0/sort.pdb
+/Users/ajungy/Desktop/CS136/sandbox/readings/sort/obj/Debug/net9.0/sort.genruntimeconfig.cache
+/Users/ajungy/Desktop/CS136/sandbox/readings/sort/obj/Debug/net9.0/ref/sort.dll
