@@ -1,0 +1,15 @@
+/Users/ajungy/Desktop/CS136/sandbox/readings/stacks/obj/Debug/net9.0/stacks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajungy/Desktop/CS136/sandbox/readings/stacks/obj/Debug/net9.0/stacks.AssemblyInfoInputs.cache
+/Users/ajungy/Desktop/CS136/sandbox/readings/stacks/obj/Debug/net9.0/stacks.AssemblyInfo.cs
+/Users/ajungy/Desktop/CS136/sandbox/readings/stacks/obj/Debug/net9.0/stacks.csproj.CoreCompileInputs.cache
+/Users/ajungy/Desktop/CS136/sandbox/readings/stacks/obj/Debug/net9.0/stacks.sourcelink.json
+/Users/ajungy/Desktop/CS136/sandbox/readings/stacks/bin/Debug/net9.0/stacks
+/Users/ajungy/Desktop/CS136/sandbox/readings/stacks/bin/Debug/net9.0/stacks.deps.json
+/Users/ajungy/Desktop/CS136/sandbox/readings/stacks/bin/Debug/net9.0/stacks.runtimeconfig.json
+/Users/ajungy/Desktop/CS136/sandbox/readings/stacks/bin/Debug/net9.0/stacks.dll
+/Users/ajungy/Desktop/CS136/sandbox/readings/stacks/bin/Debug/net9.0/stacks.pdb
+/Users/ajungy/Desktop/CS136/sandbox/readings/stacks/obj/Debug/net9.0/stacks.dll
+/Users/ajungy/Desktop/CS136/sandbox/readings/stacks/obj/Debug/net9.0/refint/stacks.dll
+/Users/ajungy/Desktop/CS136/sandbox/readings/stacks/obj/Debug/net9.0/stacks.pdb
+/Users/ajungy/Desktop/CS136/sandbox/readings/stacks/obj/Debug/net9.0/stacks.genruntimeconfig.cache
+/Users/ajungy/Desktop/CS136/sandbox/readings/stacks/obj/Debug/net9.0/ref/stacks.dll
