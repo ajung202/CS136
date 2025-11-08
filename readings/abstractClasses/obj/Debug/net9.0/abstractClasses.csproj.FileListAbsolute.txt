@@ -1,0 +1,15 @@
+/Users/ajungy/Desktop/CS136/sandbox/readings/abstractClasses/bin/Debug/net9.0/abstractClasses
+/Users/ajungy/Desktop/CS136/sandbox/readings/abstractClasses/bin/Debug/net9.0/abstractClasses.deps.json
+/Users/ajungy/Desktop/CS136/sandbox/readings/abstractClasses/bin/Debug/net9.0/abstractClasses.runtimeconfig.json
+/Users/ajungy/Desktop/CS136/sandbox/readings/abstractClasses/bin/Debug/net9.0/abstractClasses.dll
+/Users/ajungy/Desktop/CS136/sandbox/readings/abstractClasses/bin/Debug/net9.0/abstractClasses.pdb
+/Users/ajungy/Desktop/CS136/sandbox/readings/abstractClasses/obj/Debug/net9.0/abstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajungy/Desktop/CS136/sandbox/readings/abstractClasses/obj/Debug/net9.0/abstractClasses.AssemblyInfoInputs.cache
+/Users/ajungy/Desktop/CS136/sandbox/readings/abstractClasses/obj/Debug/net9.0/abstractClasses.AssemblyInfo.cs
+/Users/ajungy/Desktop/CS136/sandbox/readings/abstractClasses/obj/Debug/net9.0/abstractClasses.csproj.CoreCompileInputs.cache
+/Users/ajungy/Desktop/CS136/sandbox/readings/abstractClasses/obj/Debug/net9.0/abstractClasses.sourcelink.json
+/Users/ajungy/Desktop/CS136/sandbox/readings/abstractClasses/obj/Debug/net9.0/abstractClasses.dll
+/Users/ajungy/Desktop/CS136/sandbox/readings/abstractClasses/obj/Debug/net9.0/refint/abstractClasses.dll
+/Users/ajungy/Desktop/CS136/sandbox/readings/abstractClasses/obj/Debug/net9.0/abstractClasses.pdb
+/Users/ajungy/Desktop/CS136/sandbox/readings/abstractClasses/obj/Debug/net9.0/abstractClasses.genruntimeconfig.cache
+/Users/ajungy/Desktop/CS136/sandbox/readings/abstractClasses/obj/Debug/net9.0/ref/abstractClasses.dll
