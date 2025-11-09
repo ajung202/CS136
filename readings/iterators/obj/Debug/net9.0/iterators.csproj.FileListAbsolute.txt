@@ -1,0 +1,15 @@
+/Users/ajungy/Desktop/CS136/sandbox/readings/iterators/obj/Debug/net9.0/iterators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajungy/Desktop/CS136/sandbox/readings/iterators/obj/Debug/net9.0/iterators.AssemblyInfoInputs.cache
+/Users/ajungy/Desktop/CS136/sandbox/readings/iterators/obj/Debug/net9.0/iterators.AssemblyInfo.cs
+/Users/ajungy/Desktop/CS136/sandbox/readings/iterators/obj/Debug/net9.0/iterators.csproj.CoreCompileInputs.cache
+/Users/ajungy/Desktop/CS136/sandbox/readings/iterators/obj/Debug/net9.0/iterators.sourcelink.json
+/Users/ajungy/Desktop/CS136/sandbox/readings/iterators/bin/Debug/net9.0/iterators
+/Users/ajungy/Desktop/CS136/sandbox/readings/iterators/bin/Debug/net9.0/iterators.deps.json
+/Users/ajungy/Desktop/CS136/sandbox/readings/iterators/bin/Debug/net9.0/iterators.runtimeconfig.json
+/Users/ajungy/Desktop/CS136/sandbox/readings/iterators/bin/Debug/net9.0/iterators.dll
+/Users/ajungy/Desktop/CS136/sandbox/readings/iterators/bin/Debug/net9.0/iterators.pdb
+/Users/ajungy/Desktop/CS136/sandbox/readings/iterators/obj/Debug/net9.0/iterators.dll
+/Users/ajungy/Desktop/CS136/sandbox/readings/iterators/obj/Debug/net9.0/refint/iterators.dll
+/Users/ajungy/Desktop/CS136/sandbox/readings/iterators/obj/Debug/net9.0/iterators.pdb
+/Users/ajungy/Desktop/CS136/sandbox/readings/iterators/obj/Debug/net9.0/iterators.genruntimeconfig.cache
+/Users/ajungy/Desktop/CS136/sandbox/readings/iterators/obj/Debug/net9.0/ref/iterators.dll
