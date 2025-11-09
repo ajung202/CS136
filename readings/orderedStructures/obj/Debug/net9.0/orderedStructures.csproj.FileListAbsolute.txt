@@ -1,0 +1,15 @@
+/Users/ajungy/Desktop/CS136/sandbox/readings/orderedStructures/obj/Debug/net9.0/orderedStructures.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajungy/Desktop/CS136/sandbox/readings/orderedStructures/obj/Debug/net9.0/orderedStructures.AssemblyInfoInputs.cache
+/Users/ajungy/Desktop/CS136/sandbox/readings/orderedStructures/obj/Debug/net9.0/orderedStructures.AssemblyInfo.cs
+/Users/ajungy/Desktop/CS136/sandbox/readings/orderedStructures/obj/Debug/net9.0/orderedStructures.csproj.CoreCompileInputs.cache
+/Users/ajungy/Desktop/CS136/sandbox/readings/orderedStructures/obj/Debug/net9.0/orderedStructures.sourcelink.json
+/Users/ajungy/Desktop/CS136/sandbox/readings/orderedStructures/bin/Debug/net9.0/orderedStructures
+/Users/ajungy/Desktop/CS136/sandbox/readings/orderedStructures/bin/Debug/net9.0/orderedStructures.deps.json
+/Users/ajungy/Desktop/CS136/sandbox/readings/orderedStructures/bin/Debug/net9.0/orderedStructures.runtimeconfig.json
+/Users/ajungy/Desktop/CS136/sandbox/readings/orderedStructures/bin/Debug/net9.0/orderedStructures.dll
+/Users/ajungy/Desktop/CS136/sandbox/readings/orderedStructures/bin/Debug/net9.0/orderedStructures.pdb
+/Users/ajungy/Desktop/CS136/sandbox/readings/orderedStructures/obj/Debug/net9.0/orderedStructures.dll
+/Users/ajungy/Desktop/CS136/sandbox/readings/orderedStructures/obj/Debug/net9.0/refint/orderedStructures.dll
+/Users/ajungy/Desktop/CS136/sandbox/readings/orderedStructures/obj/Debug/net9.0/orderedStructures.pdb
+/Users/ajungy/Desktop/CS136/sandbox/readings/orderedStructures/obj/Debug/net9.0/orderedStructures.genruntimeconfig.cache
+/Users/ajungy/Desktop/CS136/sandbox/readings/orderedStructures/obj/Debug/net9.0/ref/orderedStructures.dll
