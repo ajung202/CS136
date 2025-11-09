@@ -1,0 +1,15 @@
+/Users/ajungy/Desktop/CS136/sandbox/readings/binarySearch/obj/Debug/net9.0/binarySearch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajungy/Desktop/CS136/sandbox/readings/binarySearch/obj/Debug/net9.0/binarySearch.AssemblyInfoInputs.cache
+/Users/ajungy/Desktop/CS136/sandbox/readings/binarySearch/obj/Debug/net9.0/binarySearch.AssemblyInfo.cs
+/Users/ajungy/Desktop/CS136/sandbox/readings/binarySearch/obj/Debug/net9.0/binarySearch.csproj.CoreCompileInputs.cache
+/Users/ajungy/Desktop/CS136/sandbox/readings/binarySearch/obj/Debug/net9.0/binarySearch.sourcelink.json
+/Users/ajungy/Desktop/CS136/sandbox/readings/binarySearch/bin/Debug/net9.0/binarySearch
+/Users/ajungy/Desktop/CS136/sandbox/readings/binarySearch/bin/Debug/net9.0/binarySearch.deps.json
+/Users/ajungy/Desktop/CS136/sandbox/readings/binarySearch/bin/Debug/net9.0/binarySearch.runtimeconfig.json
+/Users/ajungy/Desktop/CS136/sandbox/readings/binarySearch/bin/Debug/net9.0/binarySearch.dll
+/Users/ajungy/Desktop/CS136/sandbox/readings/binarySearch/bin/Debug/net9.0/binarySearch.pdb
+/Users/ajungy/Desktop/CS136/sandbox/readings/binarySearch/obj/Debug/net9.0/binarySearch.dll
+/Users/ajungy/Desktop/CS136/sandbox/readings/binarySearch/obj/Debug/net9.0/refint/binarySearch.dll
+/Users/ajungy/Desktop/CS136/sandbox/readings/binarySearch/obj/Debug/net9.0/binarySearch.pdb
+/Users/ajungy/Desktop/CS136/sandbox/readings/binarySearch/obj/Debug/net9.0/binarySearch.genruntimeconfig.cache
+/Users/ajungy/Desktop/CS136/sandbox/readings/binarySearch/obj/Debug/net9.0/ref/binarySearch.dll
