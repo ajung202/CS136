@@ -1,0 +1,15 @@
+/Users/ajungy/Desktop/CS136/sandbox/readings/binarySearchTrees/obj/Debug/net9.0/binarySearchTrees.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajungy/Desktop/CS136/sandbox/readings/binarySearchTrees/obj/Debug/net9.0/binarySearchTrees.AssemblyInfoInputs.cache
+/Users/ajungy/Desktop/CS136/sandbox/readings/binarySearchTrees/obj/Debug/net9.0/binarySearchTrees.AssemblyInfo.cs
+/Users/ajungy/Desktop/CS136/sandbox/readings/binarySearchTrees/obj/Debug/net9.0/binarySearchTrees.csproj.CoreCompileInputs.cache
+/Users/ajungy/Desktop/CS136/sandbox/readings/binarySearchTrees/obj/Debug/net9.0/binarySearchTrees.sourcelink.json
+/Users/ajungy/Desktop/CS136/sandbox/readings/binarySearchTrees/bin/Debug/net9.0/binarySearchTrees
+/Users/ajungy/Desktop/CS136/sandbox/readings/binarySearchTrees/bin/Debug/net9.0/binarySearchTrees.deps.json
+/Users/ajungy/Desktop/CS136/sandbox/readings/binarySearchTrees/bin/Debug/net9.0/binarySearchTrees.runtimeconfig.json
+/Users/ajungy/Desktop/CS136/sandbox/readings/binarySearchTrees/bin/Debug/net9.0/binarySearchTrees.dll
+/Users/ajungy/Desktop/CS136/sandbox/readings/binarySearchTrees/bin/Debug/net9.0/binarySearchTrees.pdb
+/Users/ajungy/Desktop/CS136/sandbox/readings/binarySearchTrees/obj/Debug/net9.0/binarySearchTrees.dll
+/Users/ajungy/Desktop/CS136/sandbox/readings/binarySearchTrees/obj/Debug/net9.0/refint/binarySearchTrees.dll
+/Users/ajungy/Desktop/CS136/sandbox/readings/binarySearchTrees/obj/Debug/net9.0/binarySearchTrees.pdb
+/Users/ajungy/Desktop/CS136/sandbox/readings/binarySearchTrees/obj/Debug/net9.0/binarySearchTrees.genruntimeconfig.cache
+/Users/ajungy/Desktop/CS136/sandbox/readings/binarySearchTrees/obj/Debug/net9.0/ref/binarySearchTrees.dll
