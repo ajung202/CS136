@@ -1,0 +1,15 @@
+/Users/ajungy/Desktop/CS136/sandbox/readings/trees/obj/Debug/net9.0/trees.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajungy/Desktop/CS136/sandbox/readings/trees/obj/Debug/net9.0/trees.AssemblyInfoInputs.cache
+/Users/ajungy/Desktop/CS136/sandbox/readings/trees/obj/Debug/net9.0/trees.AssemblyInfo.cs
+/Users/ajungy/Desktop/CS136/sandbox/readings/trees/obj/Debug/net9.0/trees.csproj.CoreCompileInputs.cache
+/Users/ajungy/Desktop/CS136/sandbox/readings/trees/obj/Debug/net9.0/trees.sourcelink.json
+/Users/ajungy/Desktop/CS136/sandbox/readings/trees/bin/Debug/net9.0/trees
+/Users/ajungy/Desktop/CS136/sandbox/readings/trees/bin/Debug/net9.0/trees.deps.json
+/Users/ajungy/Desktop/CS136/sandbox/readings/trees/bin/Debug/net9.0/trees.runtimeconfig.json
+/Users/ajungy/Desktop/CS136/sandbox/readings/trees/bin/Debug/net9.0/trees.dll
+/Users/ajungy/Desktop/CS136/sandbox/readings/trees/bin/Debug/net9.0/trees.pdb
+/Users/ajungy/Desktop/CS136/sandbox/readings/trees/obj/Debug/net9.0/trees.dll
+/Users/ajungy/Desktop/CS136/sandbox/readings/trees/obj/Debug/net9.0/refint/trees.dll
+/Users/ajungy/Desktop/CS136/sandbox/readings/trees/obj/Debug/net9.0/trees.pdb
+/Users/ajungy/Desktop/CS136/sandbox/readings/trees/obj/Debug/net9.0/trees.genruntimeconfig.cache
+/Users/ajungy/Desktop/CS136/sandbox/readings/trees/obj/Debug/net9.0/ref/trees.dll
