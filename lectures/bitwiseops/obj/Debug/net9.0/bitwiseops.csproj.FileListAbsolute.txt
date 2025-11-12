@@ -1,0 +1,15 @@
+/Users/ajungy/Desktop/CS136/sandbox/lectures/bitwiseops/obj/Debug/net9.0/bitwiseops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajungy/Desktop/CS136/sandbox/lectures/bitwiseops/obj/Debug/net9.0/bitwiseops.AssemblyInfoInputs.cache
+/Users/ajungy/Desktop/CS136/sandbox/lectures/bitwiseops/obj/Debug/net9.0/bitwiseops.AssemblyInfo.cs
+/Users/ajungy/Desktop/CS136/sandbox/lectures/bitwiseops/obj/Debug/net9.0/bitwiseops.csproj.CoreCompileInputs.cache
+/Users/ajungy/Desktop/CS136/sandbox/lectures/bitwiseops/obj/Debug/net9.0/bitwiseops.sourcelink.json
+/Users/ajungy/Desktop/CS136/sandbox/lectures/bitwiseops/bin/Debug/net9.0/bitwiseops
+/Users/ajungy/Desktop/CS136/sandbox/lectures/bitwiseops/bin/Debug/net9.0/bitwiseops.deps.json
+/Users/ajungy/Desktop/CS136/sandbox/lectures/bitwiseops/bin/Debug/net9.0/bitwiseops.runtimeconfig.json
+/Users/ajungy/Desktop/CS136/sandbox/lectures/bitwiseops/bin/Debug/net9.0/bitwiseops.dll
+/Users/ajungy/Desktop/CS136/sandbox/lectures/bitwiseops/bin/Debug/net9.0/bitwiseops.pdb
+/Users/ajungy/Desktop/CS136/sandbox/lectures/bitwiseops/obj/Debug/net9.0/bitwiseops.dll
+/Users/ajungy/Desktop/CS136/sandbox/lectures/bitwiseops/obj/Debug/net9.0/refint/bitwiseops.dll
+/Users/ajungy/Desktop/CS136/sandbox/lectures/bitwiseops/obj/Debug/net9.0/bitwiseops.pdb
+/Users/ajungy/Desktop/CS136/sandbox/lectures/bitwiseops/obj/Debug/net9.0/bitwiseops.genruntimeconfig.cache
+/Users/ajungy/Desktop/CS136/sandbox/lectures/bitwiseops/obj/Debug/net9.0/ref/bitwiseops.dll
